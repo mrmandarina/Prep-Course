@@ -1,0 +1,61 @@
+html{
+    background-image: url("https://wallpaperbat.com/img/158351-pizza-pattern.png");
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+
+h1{
+    color: #756d6d
+}
+
+img{
+    width: 400px
+}
+
+.divClass{
+    color: #000000;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: #2f9fa3;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 800px;
+    height: 500;
+    border-radius: 25px;
+    padding: 10px;
+    font-weight: bold;
+    -webkit-text-stroke: 0.5px black;
+    border: 5px solid rgb(94, 67, 17);
+}
+
+.boton{
+    border: 1px solid #2e518b;
+    padding: 10px;
+    background-color: #2e518b;
+    color: #ffffff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: 'Helvetica', sans-serif;
+    border-radius: 50px;
+    font-size: 8px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#thirdDiv{
+    height: 800px;
+    width: 500px;
+    background-color: rgb(47, 159, 163);
+    padding: 50px;
+    border: 5px solid rgb(94, 67, 17);
+    border-radius: 25px;
+    align-items: center;
+    margin-left:auto;
+    margin-right: auto;
+}
+
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
