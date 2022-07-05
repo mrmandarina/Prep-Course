@@ -1,0 +1,8 @@
+ * Variables: las variables son formas de almacenar valores de algo para modificar o usar mas tarde.
+ Una variable consta con determinar el nombre de la misma (ya sea con "var", "let" o "const"), y asignar el valor de su contenido (con un =)
+ * Strings: los strings son bloques de texto los cuales siempre van entre comillas ""
+ * Funciones (argumentos, `return`): las funciones son objetos invocables, o sea que podemos determinar una funcion respetando su anatomia (function "nombredefuncion"(){aqui iria nuestro codigo ejecutable})
+ una vez que tengamos definida nuestra funcion, luego podemos invocarla escribiendo el nombre de dicha funcion seguido de un ()
+ * Declaraciones `if`: los if son condiciones para que nuestro codigo logre lo que nos proponemos. por ejemplo, si corremos por un rato prolongado nuestras piernas van a empezar a cansarse, lo que nos dara una idea de que necesitamos sentarnos.
+ En este caso un codigo interno para esta situacion podria ser: si las piernas estan cansadas, descansar.
+ * Valores booleanos (`true`, `false`): los valores booleanos son un concepto, una forma de definir las cosas de una u otra forma, blanco o negro, si o no. En la programacion se usa true o false

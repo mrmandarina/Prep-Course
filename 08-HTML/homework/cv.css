@@ -1,0 +1,21 @@
+html{
+    background-image: url("https://st2.depositphotos.com/1329518/5288/v/600/depositphotos_52883757-stock-illustration-orange-fruit-pattern.jpg")
+}
+
+.datospersonales{
+background-color: bisque;
+margin-top: 30px;
+margin-bottom: 30px;
+width: 800px;
+height: 500;
+border-radius: 25px;
+padding: 10px;
+}
+
+.fotito {
+    height: 350px;
+    width: 280px;
+    align-items: center;
+    margin-left:auto;
+    margin-right: auto;
+}
